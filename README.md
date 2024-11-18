@@ -63,7 +63,7 @@ REBUILD STEPS:
 make clean
 make clobber
 . build/envsetup.sh
-lunch lineage_sunfish-userdebug
+lunch lineage_sunfish-ap3a-userdebug
 m evolution
 ```
 
