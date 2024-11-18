@@ -62,9 +62,9 @@ REBUILD STEPS:
 ```bash
 make clean
 make clobber
-source build/envsetup.sh
-lunch evolution_sunfish-userdebug
-mka evolution
+. build/envsetup.sh
+lunch lineage_sunfish-userdebug
+m evolution
 ```
 
 ISSUE CONTEXT:
